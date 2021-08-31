@@ -8,7 +8,7 @@
 
 ## 💻 Sobre o projeto <a name = "-sobre"></a>
 
-Projeto seguindo os outros repositórios, com uma nova animação usando 5% de HTML e 95% de CSS/CSS3 
+Projeto seguindo os outros repositórios, com uma nova animação usando 20% de HTML e 80% de CSS/CSS3 
 Novas features: variáveis, pseudo-variáveis, hierarquia de váriaveis e SCSS.
 
 <p align="center">
